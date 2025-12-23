@@ -1,6 +1,9 @@
 
 # 👋 Hi, I’m **Abhishek Tiwari**
 
+![github banner](https://github.com/user-attachments/assets/67949766-192f-46a3-813d-209429978f10)
+
+
 💻 **Full Stack Developer (In Progress)** | ⚛️ React Learner | 🌱 Continuous Learner | 🚀 Tech Enthusiast
 
 I enjoy building **clean, responsive, and interactive web applications** and learning modern technologies step by step through real projects.
