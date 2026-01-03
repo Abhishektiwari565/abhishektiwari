@@ -115,4 +115,4 @@ I enjoy building **clean, responsive, and interactive web applications** and lea
 
 ⭐ *If you like my work, consider starring my repositories!*
 
-💡 Every commit represents progress in mastering Full Stack Development.
+alert("💡 Every commit represents progress in mastering Full Stack Development");
