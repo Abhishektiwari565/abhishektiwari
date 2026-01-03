@@ -12,10 +12,10 @@ I enjoy building **clean, responsive, and interactive web applications** and lea
 
 ## 💫 About Me
 
-* 🔭 Currently learning **⚛️ React.js** for building dynamic UIs
+* 🔭 Completed learning of **⚛️ React.js** for building dynamic UIs
 * ✅ Completed fundamentals of
   **🌐 HTML | 🎨 CSS | 🅱️ Bootstrap | ⚡ JavaScript**
-* 🌱 Next on my roadmap: **🖥️ Node.js | 🚂 Express.js | 🍃 MongoDB**
+* 🌱 Backend roadmap in progress: 🖥️ Node.js | 🚂 Express.js | 🍃 MongoDB
 * 🎯 Goal: Become a **MERN Stack Developer**
 * 🧠 Strong believer in *learning by building real projects*
 * ⚡ Fun fact: Every bug 🐞 is just a lesson 📖 in disguise
@@ -103,13 +103,6 @@ I enjoy building **clean, responsive, and interactive web applications** and lea
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishektiwari565\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishektiwari565\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 * 📧 **Email:** [abhishektiwari78563@gmail.com](mailto:abhishektiwari78563@gmail.com)
@@ -121,3 +114,5 @@ I enjoy building **clean, responsive, and interactive web applications** and lea
 ✨ **“Code 💻 | Learn 📚 | Build 🚀 | Repeat 🔄”**
 
 ⭐ *If you like my work, consider starring my repositories!*
+
+💡 Every commit represents progress in mastering Full Stack Development.
